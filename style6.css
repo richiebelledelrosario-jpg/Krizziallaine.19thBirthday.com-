@@ -22,7 +22,7 @@ body{
     font-family: pacifico, cursive;
     text-align: center;
     color: rgb(233, 240, 236);
-    background-image: url(last.gif);
+    background-image: url(images/last.gif);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -75,4 +75,5 @@ body{
     margin-right: auto;
     border-radius: 0%;
 }
+
 
