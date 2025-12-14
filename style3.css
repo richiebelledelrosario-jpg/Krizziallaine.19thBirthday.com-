@@ -21,7 +21,7 @@ h1{
     border-radius: 20px;
     border-width: 4px;
     border-color: rgb(183, 4, 67);
-    font-family: pacifico, cursive;
+    font-family: 'Quicksand', san-Serif;
     text-align: center;
     font-size: larger;
     padding: 15px; 
@@ -93,6 +93,7 @@ h1{
 .navbar li{
     float: left;
 }
+
 
 
 
