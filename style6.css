@@ -38,43 +38,44 @@ body{
     border-radius: 10%;
 }
 .design2{
-    width: 250px;
-    height: 250px;
+    width: 240px;
+    height: 240px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border-radius: 0%;
 }
 .design3{
-    width: 400px;
+    width: 390px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 .design4{
-    width: 300px;
+    width: 290px;
     height: 200px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 .main{
-    width: 350px;;
-    height: 250px;
+    width: 330px;;
+    height: 230px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border-radius: 10%;
 }
 .main1{
-    width: 350px;;
-    height: 250px;
+    width: 330px;;
+    height: 230px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border-radius: 0%;
 }
+
 
 
 
