@@ -1,5 +1,5 @@
 body{
-    font-family: pacifico, cursive;
+    font-family: 'Quicksand', san-Serif;
     text-align: center;
     color: rgb(232, 142, 157);
     background-color: rgb(251, 237, 247);
@@ -41,4 +41,5 @@ body{
 }
 .navbar li{
     float: left;
+
 }
