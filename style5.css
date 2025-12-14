@@ -25,21 +25,21 @@ body{
     float: left;
 }
 .main{
-    width: 300px;
-    height: 200px;
+    width: 280px;
+    height: 180px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 .design1{
-    width: 400px;
+    width: 380px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 .design2{
-    width: 200px;
+    width: 180px;
     height: auto;
     display: block;
     margin-left: auto;
@@ -53,14 +53,14 @@ body{
     margin-right: auto;
 }
 .design4{
-    width: 200px;
+    width: 180px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 .design4{
-    width: 400px;
+    width: 380px;
     height: auto;
     display: block;
     margin-left: auto;
@@ -121,5 +121,6 @@ body{
     background-color: rgb(235, 73, 124);
     font-size: larger;
     }
+
 
 
