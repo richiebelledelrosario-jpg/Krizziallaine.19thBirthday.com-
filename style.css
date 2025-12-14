@@ -4,7 +4,7 @@
 body{
 
     font-family: pacifico, cursive;
-    background-image: url(box.png);
+    background-image: url(images/box.png);
     color: rgb(251, 251, 78);
     margin: 10px;
     padding: 10px;
@@ -103,3 +103,4 @@ body{
     margin-left: auto;
     margin-right: auto;  
 }
+
