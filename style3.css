@@ -4,6 +4,11 @@ body{
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    font-size: larger;
    text-align: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   font-size: larger;
+
 }
 
 h1{
@@ -89,4 +94,5 @@ h1{
 .navbar li{
     float: left;
 }
+
 
