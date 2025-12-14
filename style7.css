@@ -19,7 +19,7 @@
 }
 
 body{
-    background-image: url(stripe.png);
+    background-image: url(images/stripe.png);
 }
 .hello{
     width: 500px;
@@ -115,4 +115,5 @@ body{
     border-radius: 10px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     background-color: pink;
+
 }
