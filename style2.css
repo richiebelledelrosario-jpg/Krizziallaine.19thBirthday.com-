@@ -1,0 +1,57 @@
+
+   h1{
+    font-family:  Verdana;
+    color: rgb(183, 76, 94);
+    text-align: center;
+   }
+   
+    #p1{
+    font-family: pacifico, cursive;
+    text-align: center;
+    color: rgb(232, 142, 157);
+    }
+    #p2{
+    font-family: pacifico, cursive;
+    text-align: center;
+    color: rgb(232, 142, 157);
+    }
+    #p3{
+    border-style: outset;
+    border-radius: 20px;
+    border-width: 3px;
+    border-color: salmon;
+    font-family: pacifico, cursive;
+    text-align: center;
+
+    }
+
+    a:link{
+        text-decoration: none;
+        color: rgb(194, 46, 70);
+    }
+    a:hover{
+        text-decoration: underline;
+        color: rgb(247, 4, 101);
+        font-size: larger;
+    }
+    a:visited{
+        text-decoration: none;
+        color: rgb(103, 101, 102);
+    }
+    #h2{
+    font-family: pacifico, cursive;
+    text-align: center;
+    color: rgb(183, 76, 94);
+
+    }
+    .design1{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    
+
+

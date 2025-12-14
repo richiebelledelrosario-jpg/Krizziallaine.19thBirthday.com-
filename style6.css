@@ -1,0 +1,78 @@
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(255, 160, 185);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color:rgb(90, 88, 89);
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+}
+.navbar a:hover{
+   background-color: bisque;
+}
+.navbar li{
+    float: left;
+}
+body{
+
+    font-family: pacifico, cursive;
+    text-align: center;
+    color: rgb(233, 240, 236);
+    background-image: url(last.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: larger;
+
+}
+.design1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75px;
+    height: 75px;
+    border-radius: 10%;
+}
+.design2{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0%;
+}
+.design3{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.design4{
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main{
+    width: 400px;;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+}
+.main1{
+    width: 400px;;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0%;
+}
+
