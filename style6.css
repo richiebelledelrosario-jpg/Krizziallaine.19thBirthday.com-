@@ -19,7 +19,7 @@
 }
 body{
 
-    font-family: pacifico, cursive;
+    font-family: 'Quicksand', san-Serif;
     text-align: center;
     color: rgb(233, 240, 236);
     background-image: url(images/last.gif);
@@ -75,5 +75,6 @@ body{
     margin-right: auto;
     border-radius: 0%;
 }
+
 
 
