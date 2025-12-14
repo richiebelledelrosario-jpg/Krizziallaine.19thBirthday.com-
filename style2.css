@@ -1,17 +1,17 @@
 
    h1{
-    font-family:  Verdana;
+    font-family:  'Arial', san-Serif;
     color: rgb(183, 76, 94);
     text-align: center;
    }
    
     #p1{
-    font-family: pacifico, cursive;
+    font-family: 'Quicksand', san-Serif;
     text-align: center;
     color: rgb(232, 142, 157);
     }
     #p2{
-    font-family: pacifico, cursive;
+    font-family: 'Quicksand', san-Serif;
     text-align: center;
     color: rgb(232, 142, 157);
     }
@@ -20,7 +20,7 @@
     border-radius: 20px;
     border-width: 3px;
     border-color: salmon;
-    font-family: pacifico, cursive;
+    font-family: 'Quicksand', san-Serif;
     text-align: center;
 
     }
@@ -39,7 +39,7 @@
         color: rgb(103, 101, 102);
     }
     #h2{
-    font-family: pacifico, cursive;
+    font-family: 'Quicksand', san-Serif;
     text-align: center;
     color: rgb(183, 76, 94);
 
@@ -53,5 +53,6 @@
 }
 
     
+
 
 
