@@ -60,7 +60,7 @@ h1{
     flex-wrap: nowrap;
 }
 .bow{
-    width: 390px;
+    width: 380px;
     height: auto;
     display: block;
     margin-left: auto;
@@ -93,6 +93,7 @@ h1{
 .navbar li{
     float: left;
 }
+
 
 
 
