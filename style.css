@@ -55,24 +55,24 @@ body{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 500px;
+        width: 300px;
     }
     
     .cat-img{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 150px;
+        width: 100px;
     }
     .sweet{
-    width: 500px;
+    width: 300px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
     }
     .sweet1{
-    width: 500px;
+    width: 300px;
     height: auto;
     display: block;
     margin-left: auto;
@@ -90,19 +90,19 @@ body{
     background-color: pink;
 }
 .cake{
-    width: 200px;
+    width: 150px;
     height: auto;
     display: block;
     margin-left: auto;
-    margin-right: auto;  
-}
+    margin-right: auto; 
 .welcome{
-    width: 500px;
+    width: 300px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;  
 }
+
 
 
 
